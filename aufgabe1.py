@@ -10,8 +10,8 @@
 #in eine Liste schreibt und dann ausgibt.
 
 #Eingabe der Werte 
-unteregrenze = input('untere Grenze eingeben ')
-oberegrenze = input('obere grenze eingeben ')
+unteregrenze = input('untere Grenze eingeben: ')
+oberegrenze = input('obere grenze eingeben: ')
 
 #Erstellen einer Variable für die Liste  
 zahlenliste = []
